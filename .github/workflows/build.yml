@@ -20,12 +20,12 @@ jobs:
       - name: Unpack app code
         run: |
           cat > app.b64 <<'EOF_B64'
-          UEsDBBQAAAAIAOBcWF3wRomFFAEAAMIBAAAMAAAAcHVic3BlYy55YW1sdVHBTsMwDL3nK6xdoVG3
+          UEsDBBQAAAAIANldWF3wRomFFAEAAMIBAAAMAAAAcHVic3BlYy55YW1sdVHBTsMwDL3nK6xdoVG3
           AYIKOHJGcF+VNe5qNY2jxK3E3+NWQ+IAl8jv2XnvOYluwgaSu2CiwGI8li5TEuLYwGc3oJ8Dgose
           3CxcJS4CH4ih3AJNeqtsvSKcSWthmFz8gjfX4Zl5hPdtpM88AUeENOhpTZrPgcrQCjewi0rtzIK5
           bJ613dv6Zm8MxoUyxwmjNAag+FGHX1+O9t7W8Hxna1vvjOZNGD3GTu3XsT7MIpjX8nrnyiiRMi/k
           tQmnB3U5KDWIJIUKbL2aDC6jb1PGHrOKqiacDto8rtIUsE3UjZvC4xpAWYoSFGrsJ8WaZ2n/ydQK
-          Fvkz2M9AULHVcVvOmF+7zAVLNTlF5EKln0QXfSvJM5pvUEsDBBQAAAAIAOBcWF2y2Dyd7wEAACME
+          Fvkz2M9AULHVcVvOmF+7zAVLNTlF5EKln0QXfSvJM5pvUEsDBBQAAAAIANBcWF2y2Dyd7wEAACME
           AAASAAAAbGliL3B1Ymxpc2hlci5kYXJ0rZNRa9swEMff/SluL40DxenTHtplLLB1FLYR2r6NMc7S
           uRaRdUKSk4XR776THadpR582MLY4/e/+dz9LpvMcEsyautIY0uyqMIdIx5psnKLFYrGA+5aAHYG3
           qAhSiwkS2k2ExHAtoZp5AyUHQLcHTi0FiBS2RtG8Gguwxr0kmgjyIHSsNhBZIgS7li0Beg87DlKT
@@ -35,7 +35,7 @@ jobs:
           GeAv4at8nglE8YG3FILR9E8whn4ATANl1lSJN+TgzRJcby2cnQ2ZVVPf6Ck4pQAEEleX56gmz9Hn
           gDlrHotTZR7nNe1j/i0jyWfjvo7xPxHAuHfqMBTuUE7habFKbhjuSZdyNiTlYx8wGXZlZ6x4kER1
           vIS3Fxfzw8QDSilcpb2nDC1b3cu6Mp30MDDN2x1pg2uU67B8CTa1gXfw6ZciP3jNvjEMcrmqdjif
-          sxO8GdwfUEsDBBQAAAAIAOBcWF0JbDekkQEAAA8DAAANAAAAbGliL21haW4uZGFydHVSwW7bMAy9
+          sxO8GdwfUEsDBBQAAAAIANVSWF0JbDekkQEAAA8DAAANAAAAbGliL21haW4uZGFydHVSwW7bMAy9
           +yt4iw0E6d3dhi0BCvTQIUAG7DiwFm0TUSRDotN1Rf59lBwbXdtdZIp8fHyPFp8GHwRWAzZH7Khu
           7ShC4eaEejLajcEgq9uC3+CG4M9sFDgH/wPGHgOZX0OglgK5huLN+9TcvHTHJhC5BCX7TkMUH+ht
           Uno6LcnibpQx0KezZ/MFTsiurADjs2vgpQD4yaYjiXeT1y07w67b6DztuXcs6pv/kCmrWwW37NBC
@@ -43,7 +43,7 @@ jobs:
           wn5e9BntSGU+66l/DU3P1tTQeNUAe937nq2XxFRVayVT7ktRNBZj/KcM9FvImQhZnaUYp93kNX3A
           9hLHQSUc6fmilIr56s8Ugupa1gqPo2opt+nceSc6ITGlb5Vp1STp33HwcH1ji2EAYbHqarUMXa2v
           FUOPY3fo/dOup+ZI5sEb2qJzFGpo0Uaagfkh1JOKHykuq7nU+1SZbB3Sy5pLefUXXdFfUEsDBBQA
-          AAAIAOBcWF3vkjFuXAgAAOwYAAALAAAAbGliL2ZiLmRhcnStWFtz27YSfvevQGY8JTnRodLO9EWO
+          AAAIAMxcWF3vkjFuXAgAAOwYAAALAAAAbGliL2ZiLmRhcnStWFtz27YSfvevQGY8JTnRodLO9EWO
           neM2SeuZ5MQTO33xeDQQCUmISYIBQNtqqv9+dhcALxKVuD3HDwkFLPaGbz8sIMtaacuinGs7y1R1
           L7SNTo5kf1gqGGmHap7d8ZWYra2tp/hPikIR44bhr55kqXJRGDfdqaybRSHNWugwcQRmjWVXVstq
           xeb37JRF9z/9mL6AueHUSvN6jdNoyMymUxpIlzwTC6Xu0kyV0+P5PeksuDHs7eLNYyZqK1XFwH4h
@@ -81,7 +81,7 @@ jobs:
           GbYHuA/XMJwiU85ajpMdD9CrGU3HmM4dKiC9HZGG9YMb6tCQLPHx+bAlxzv/J1MrosfvWXMcumfy
           aUYwM9+z0jtGnmhl2+9CsoCypdTG/uoKvwNaxp55lP3wA8tSaf6j7Juythv8/azdeZggF3p4a9+h
           8a/vcCA22fmadY8ee+/P+EcPtcK/C8D9rYBg8g3Dt9MTuM0tOWA4ZxRB4E18e22KnJBdcn2HVzcn
-          lw7eV7aeov4LUEsDBBQAAAAIAOBcWF3hMkauKAMAAO4IAAAOAAAAbGliL3RoZW1lLmRhcnTNVU2P
+          lw7eV7aeov4LUEsDBBQAAAAIACZTWF3hMkauKAMAAO4IAAAOAAAAbGliL3RoZW1lLmRhcnTNVU2P
           2zYQvftXzC0yami9cnaTOEgLSxs1BRK0WBvYQ9EDJY0kYilSIKlNjKL/vSPqw5Lt9Fa0PljizBvy
           veHMiFe10hZe1Sx9ZgVuc9FYi/qmYvTPmfAzpu2r94vFzc0NPDD9DJK9HOEHUJrJAkEo9bwCwysu
           mAYuwdRccwtWgS0RNOaoUaYIrK79RSqYMRDBnwsAY5nlKaRKGgtJAR8gUkJpb/0tjte7dXz7cfn+
@@ -96,7 +96,7 @@ jobs:
           63HLIWDPs5FHOFpORDrUGDa+oGQJCQ7/f8xylVLT/ZfMuk47Z9Y/jKRaPS/p/dTYDo9/KGz3/Rnr
           mNqRSnmsoO21Ypq0UzsJS/bCW8dwaNhb/FwoKmxZzPl+5TYte7b702LK0pZNlfQEn3hWIDGgofeb
           VjVqe/Q1GiVe8DTkup9nlvDhR6Bkd0PFeJNg31Dfpm0XwE/deDP+15JbhMv+sJqU/Kvn93cK4wVM
-          L9V9IP4GUEsDBBQAAAAIAOBcWF0Gv/T8Nw0AAAQtAAAOAAAAbGliL3N0b3JlLmRhcnStWm1v3DYS
+          L9V9IP4GUEsDBBQAAAAIANBcWF0Gv/T8Nw0AAAQtAAAOAAAAbGliL3N0b3JlLmRhcnStWm1v3DYS
           /p5fwRRBVmq2sq8oDr1N1z43LzjfpY0vTu8+FIFBS1RWjd4qUnYW7v73mxmSIilpve61BpLVUsOZ
           4fCZN3KLqm06xRYZ79SKy22dLp4/KvzBtKlvRKfGwxVXGxgbBluefuIfxSove6VEd5Q3fZ1xVTR1
           gvTedEspN7wT2VXbiVx0ok6FPJoO2cnD7Px6zK9qMlHKiZT+uizkRnQDh6OjI3ZZ1B9LwWTTd6lg
@@ -156,7 +156,7 @@ jobs:
           0mu7/4jtTZPy8qsGA3MG6ZxJCOHpBm8NKcZtsQ07gnxQ5EVKrAGeIoO6D4SmnwRE7xLU7IboDQq+
           KXKBpaSu3m8mxXtp3oPiN/e3VjDlnHb9Bf6aynb+8DzhWQxkeEIFHwcZn2WAu67jkCJkeO4F4V5O
           BHCPXKcEeVDERdfk3jmqvvo1X0QFGW4iBa9DfxzfU7muB+dgPYKfe6X/HWqyroNAYDXJCgmR51C3
-          IPsWfw9saTW73aP/AVBLAwQUAAAACADgXFhd1K+cx+IGAAArFgAADwAAAGxpYi9tb2RlbHMuZGFy
+          IPsWfw9saTW73aP/AVBLAwQUAAAACADQXFhd1K+cx+IGAAArFgAADwAAAGxpYi9tb2RlbHMuZGFy
           dJ1Y32/bNhB+z1/BvtQSYDgdMAyF3cTo2gbItm7B0g0DAj/QEm2z1Q+PpJN4Sf733R1F6iSrmTu/
           SLw7knffHT8drcttbZwY5dK4aVZXt8q40ezkRFW7UlzV1n3ab5V4EEapYix0KdcKH+trV5v9mMT0
           Kp5gzr1TldV1FSf+JdhAPJwIce2MrtZirZwo5FIV4uxc2Dvtso1I3EbblKz8L0yc4C5oOPodXkbj
@@ -188,7 +188,7 @@ jobs:
           B5nIAsH2ZEHwH5BagJxsYiqGbost+NNOI4W82yZpgf9mUZXN/WOIMbk9y1vIlfc35HDIlzZr/tvR
           ZvQgwF7myL6f3/4dlSdx2jnIlDQMoZN2mh+4qNdQBvKpMnCPOk5/5xjI+bkoKOmfoSg+kH1SwCLP
           2OcqrhpanObPUr0SiY25ACLAC+yHcuv2KfSNQCIVXZVEGCS46XtaLrFt5w0N59c2Tyi+fwFQSwME
-          FAAAAAgA4FxYXZBbgfsLCwAA5DIAABAAAABsaWIvd2lkZ2V0cy5kYXJ0zVt7b9vIEf/fn2JiFDDV
+          FAAAAAgA1FJYXZBbgfsLCwAA5DIAABAAAABsaWIvd2lkZ2V0cy5kYXJ0zVt7b9vIEf/fn2JiFDDV
           UxlbcdxAiePGr4NRpwlsX3PFISjW5EramuTqyKUfl/q7d/ZBckkuKcrOFSdcLHJfMzs785vH6li8
           5KmArSUJbsicTmdRLgRNX8YE/zIS+SFJxdbbjQ1mBooFjWnZ+vLlS/iUkmROYZ6SkNFEwDWuwBPI
           MxrCjKewTFlM0gcggWA8yfyNICJZBj+a8Yd6OL0XNAkzuBRIOaJZ9oWFcyrg2wZAgNNEY4InOwCy
@@ -238,7 +238,7 @@ jobs:
           JuhuDjFcK/qkgykby4cS5ZXcJLGR5s+4RROKvweS3aghTma1AyxzCDvULzeyYCr53toqW1jCBLos
           1WicoQ7xA2ySxE5CHJDMJbWUR+jiPO0MzUSlEW33aS7nnu1AFftTK+Rsu0bZd8poZJW6gpJZpFlp
           AskFn/FARtXF/2WgP3awfpYsc2GF61JkV4p7+dS+JhsMVU1TxA237W/sMqQjkgQ02hqttPUhJJCC
-          ryveKYu9jizCpv7p7xbllg39D1BLAwQUAAAACADgXFhd50ov16YMAADdLAAAFQAAAGxpYi9zY3Jl
+          ryveKYu9jizCpv7p7xbllg39D1BLAwQUAAAACAAmU1hd50ov16YMAADdLAAAFQAAAGxpYi9zY3Jl
           ZW5zL3Bvc3QuZGFydN1a/2/buBX/vX8FCxQnefPUpNe7FU6brknTrUB6DZps3dALAsaibaKUqIlU
           HC/n/33vkaJEUZKTFof9MKNIZeqJfN/f5z2ZZ4UsNYkKOv9Kl2y24IJdFXz+lZVPveskpaWODh7x
           kFxUWgNpRuEvp2KMjudaPMU/YwRFKW94Cju5C0fYUCbJ00ymTKhwC7ihtCzZwLpesWxofc3TJdO9
@@ -296,7 +296,7 @@ jobs:
           /IkiocYQ1r36M81vStlDc2L8uMGme1/SzDQX+EOLhw8yd09TH8RaMGEYeS+AHxm8sTQvJXt52uJO
           j2SXkwwiz+7PEPl3KbwnVZgvjVJNV0hi78Chjm0PmbL5FTMqMW/4KCnNjx/NONykWMyWguOr5b75
           9tst3K8xuSIVFCV4fs6m+HBe/3wyHdrgymxwsWJuNNDbBXN5aV+f9TfodXb3+dNQW/59ta5OsNtH
-          /wVQSwMEFAAAAAgA4FxYXamJ5mRcCAAARCAAABYAAABsaWIvc2NyZWVucy9wYWdlcy5kYXJ0xVlt
+          /wVQSwMEFAAAAAgA0FxYXamJ5mRcCAAARCAAABYAAABsaWIvc2NyZWVucy9wYWdlcy5kYXJ0xVlt
           b+M2Ev6eX8EDCkhGfdpsGrSBu0kuL5tDgN02l6TXA4pFwEi0TYQitRRlxw38u+77/bIbvkjWC+kk
           272esGvLfJ0ZzszzDEPzQkiFogKnD3hGJlNWKUXkmxzDJ8UsybBU0Y87tDeukGJBMxhYv9QDm5FJ
           8iYXGWFlfwnoKJWQxNOu5iT3tS9pNiNqsFLeWmUnZbgs0RUIV96kkhCOyKMiPCvRjQJlphX71ayC
@@ -334,7 +334,7 @@ jobs:
           yNxcMr6zf3A6PvJysW7Ftyn3WoTSfAFYN51dG1FF8nIY8VbkWqaPhFeXMDAgTEckvd+4U661aPHQ
           ZVu1/VTX9rVG5fDyNyyN23qa0Ky79dQk/K2XvM/d3Q5obGPI51lsn8K+uKYLYMTXvPr72Ua7dbd/
           +Q6UuYvNa5PK7Y2QL71t7g/8l1Q1GFibwBkFrpV+wgs6w0pIyBVFQy98Yz0XUM8n7EDZPKz6njXd
-          391fGLbd3tXGOxccrNa9Y/Er+qXZLFAArXf+C1BLAwQUAAAACADgXFhdtWApeaoHAAA9GgAAGAAA
+          391fGLbd3tXGOxccrNa9Y/Er+qXZLFAArXf+C1BLAwQUAAAACAAEU1hdtWApeaoHAAA9GgAAGAAA
           AGxpYi9zY3JlZW5zL2xpYnJhcnkuZGFydL1YbW/juBH+vr+CPSxOMirwsrnDYuF9aZM0KQLs7i02
           wV2BRRAwEm0ToUSVpOL4Av+ufu8v6wxJybJMOcm2KGFYEjkccl74zAxFWSttSVKz/JbN+XQmJL+u
           RX7L9U+9d1owbZO3L8SQXDbWAmnJ4F8wOUZXa3UnCiBsX1rCjpLSn0pVcGmGLGDAWKV5pN8ueBnr
@@ -370,7 +370,7 @@ jobs:
           KyGxGt4TDgUbzeJ2+JpVWXKIvHm6UFr8gQArMXPLCGAlxF78iqXmnVaihdVT9NY2554lDXAPDuRd
           Fc644KStq116ui85JYOqZDQhfuZ1gm/7LxV6sgbfLh8tCLCV7P4jwB9A6auMYGwCkFl6Dr+GL8ql
           FLURZs/m9gyNwfJ2G7umlsrwRxPqfttBpw6sMbh3UJ2R8nvEiRYNT70hief9Xbb7H1BLAwQUAAAA
-          CADgXFhdj1EaNlkEAADMDAAAFgAAAGxpYi9zY3JlZW5zL3NoZWxsLmRhcnSlVttu2zgQffdXzFtk
+          CADZUlhdj1EaNlkEAADMDAAAFgAAAGxpYi9zY3JlZW5zL3NoZWxsLmRhcnSlVttu2zgQffdXzFtk
           1FAuKLaBknQ3SbvYAGlR1EHzEAQuJY1tbijSS1JO3CD/vkPqYt1sLLB+sKSZM5rhzOGheLZS2sLB
           iiVPbIHRXOTWoj7MGP1zJsKUaXtwNhrxEhiGh3aJGVaOyo5My65tqfo4wWPN9KZrzpTuQVdUkOkZ
           lbF1UYeHh3CL1gCTGzCJRpTwd56twCoyKSpUg2VxBD/p/0am+BKumcgRLuD47OdoziUT8MNZvirL
@@ -390,7 +390,7 @@ jobs:
           30MEpxOg1tCXjHOetnI0pXWPqJay2HgxKeQCnGKTg+aumTQrRrJj26QvZPQ7S3luKqEtnkL3NZML
           poOT97uPiarrSuRZp6aM+nz5wo0T0Qi+NJ7CjMsBoR4URbcnAmKd30GTwYVSR+QC3WLDLPdMNj7l
           yWlvy/M5BFVsX0PviHg+V7FzB/XG2I37vimI4gKmzrBHb6sDq6hyt77NiRxFq45P9qPuy7Pnz/o+
-          fP5wdNQ9Cx936Vl1O+7o2b9QSwMEFAAAAAgA4FxYXT+cI2SUEwAAhVUAABUAAABsaWIvc2NyZWVu
+          fP5wdNQ9Cx936Vl1O+7o2b9QSwMEFAAAAAgA11xYXT+cI2SUEwAAhVUAABUAAABsaWIvc2NyZWVu
           cy9tb3JlLmRhcnTdPGtv20iS3/MrahbBiMIojJPJZAeaSXzOw7PG5rW2s4u9uUCgyJZEmGRz2U3L
           2sDA/pb9E/f9fsr9kqvqblJ8dFOyfcnOHRFEcrMfVdX17mrFac4LCaM8CC+CJZsuklJKVjxMA/w/
           DhI/Cgo5+ule3OkXZzJ5SP+5OuQFv4wjnKn6UnWse/r+w5RHLBHdKfCFkLxglna5YqmtfR1HSyZ7
@@ -479,7 +479,7 @@ jobs:
           u2sOGH8NfLSB69S3zUWIzoWGkCzxTTepR4YOwob3G0hn9AMfwSUbRJrslDZspmimHSRbrr3S4zYC
           Ks0reW694tKM4dSi3zjvNw4FFvvsWuca5tCVFFPmpKzy4fYXMbKl7/vq96JMBW+6qS65tYY38x8R
           X2cJDzrMzDL6fQJE/Btaw1r3aPyqG/PmE0svew29Vq8Y9m86t4PgnVK5YkUFm/R7o9Vl/o317tAN
-          DjGdsdv/AFBLAwQUAAAACADgXFhdoSNjSRALAADdLgAAFQAAAGxpYi9zY3JlZW5zL2hvbWUuZGFy
+          DjGdsdv/AFBLAwQUAAAACADmUlhdoSNjSRALAADdLgAAFQAAAGxpYi9zY3JlZW5zL2hvbWUuZGFy
           dNVabW/bOBL+nl/BBRawfHXVvLW7cDfNJU2zG1xfcrV7/bAoDNpiIiKSqCOpOGmR/34z1BslUX5J
           93bvhCCSSGpIzjx8Zjg0j1MhNRmkdHFDr9n4Ksq0ZvJZTOE/p5EfUKkHL3d4qx1PdPQM//U1SKW4
           5QFIKh/KhlVL338Wi4BFqi0CKpQWkjnKdchiV/mSB9dMdyTFDikqZFE16p1FRJUiv4mYTRaSsYSw
@@ -529,7 +529,7 @@ jobs:
           0P3BPtUus3YoxZBlXVdu+/Kj+u/9ZStmUfHcFWWZlOrp/UVgdjzm7SIYNrYqrThoux/e1PZxhYRu
           kJrTAjMcfZ8y9Baokik8g/NmEXiOPJEZi1vOSPmjHB7TrgNpJs83wFMrwnYHivbmATV27JvfAB8f
           k8Gn5Ab23onRsWMrAU4WAQKg3xsRtOBVJJa5pA/Fm8+iiKeKq35f0OHegLx7925EwnEcE1qzsNHh
-          MmTd46vvWBxtfjQ/vLgWUzGlcw8zJ9yQkabzC9DcXZ6UAbjxlzv/AVBLAwQUAAAACADgXFhd/8F1
+          MmTd46vvWBxtfjQ/vLgWUzGlcw8zJ9yQkabzC9DcXZ6UAbjxlzv/AVBLAwQUAAAACAAIU1hd/8F1
           P6sFAACVEgAAFQAAAGxpYi9zY3JlZW5zL2Vhcm4uZGFydM1YbW/bNhD+nl9xA4pKRhPFToo2dZu2
           TpqiAYK2SNx1W9cVtHSWiVCkQFJ23CL/fUe92LIlO9nWDyMCWyaPx7uHd8+dwpNUaQteysJrFmN/
           LDJrUe8njD45E0HEtPWe7/ANcgb1lIdoNsmlWk15RILVQyW4kAyCfWOVxnUNNG8nmLTNz3gUo12c
@@ -556,29 +556,28 @@ jobs:
           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
-          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
+          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
-          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
+          AAAIAARTWF21YCl5qgcAAD0aAAAYAAAAAAAAAAAAAACkgQZGAABsaWIvc2NyZWVucy9saWJyYXJ5
+          LmRhcnRQSwECFAMUAAAACADZUlhdj1EaNlkEAADMDAAAFgAAAAAAAAAAAAAApIHmTQAAbGliL3Nj
+          cmVlbnMvc2hlbGwuZGFydFBLAQIUAxQAAAAIANdcWF0/nCNklBMAAIVVAAAVAAAAAAAAAAAAAACk
+          gXNSAABsaWIvc2NyZWVucy9tb3JlLmRhcnRQSwECFAMUAAAACADmUlhdoSNjSRALAADdLgAAFQAA
+          AAAAAAAAAAAApIE6ZgAAbGliL3NjcmVlbnMvaG9tZS5kYXJ0UEsBAhQDFAAAAAgACFNYXf/BdT+r
           BQAAlRIAABUAAAAAAAAAAAAAAKSBfXEAAGxpYi9zY3JlZW5zL2Vhcm4uZGFydFBLBQYAAAAADwAP
           ALsDAABbdwAAAAA=
           EOF_B64
           base64 -d app.b64 > app.zip
           mkdir src
           unzip -q app.zip -d src
-          ls -R src | head -40
 
       - name: Create Android project and add app code
         run: |
@@ -589,7 +588,32 @@ jobs:
           M=app/android/app/src/main/AndroidManifest.xml
           sed -i 's#<application#<uses-permission android:name="android.permission.INTERNET"/>\n    <application#' $M
           sed -i 's#android:label="pagepilot"#android:label="PagePilot"#' $M
-          cat $M | head -20
+          if [ -f app/android/build.gradle.kts ]; then
+          cat >> app/android/build.gradle.kts <<'EOF_KTS'
+          fun fixSdk(p: Project) {
+              if (p.name != "app") {
+                  p.extensions.findByName("android")?.let {
+                      (it as com.android.build.gradle.BaseExtension).compileSdkVersion(36)
+                  }
+              }
+          }
+          subprojects {
+              if (state.executed) fixSdk(this) else afterEvaluate { fixSdk(this) }
+          }
+          EOF_KTS
+          else
+          cat >> app/android/build.gradle <<'EOF_GRV'
+          subprojects {
+              def fixSdk = { p ->
+                  if (p.name != 'app' && p.hasProperty('android')) {
+                      p.android.compileSdkVersion 36
+                  }
+              }
+              if (project.state.executed) { fixSdk(project) } else { project.afterEvaluate { fixSdk(project) } }
+          }
+          EOF_GRV
+          fi
+          tail -15 app/android/build.gradle* | head -40
 
       - name: Build release APK
         working-directory: app
